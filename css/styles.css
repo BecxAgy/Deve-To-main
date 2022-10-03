@@ -93,43 +93,7 @@ input, select{
 }
 
 
-#toolbar{
-    display: flex;
-    border-bottom: 1px solid #95afac ;
-    padding: 1rem;
-    
-}
 
-#toolbar h4{
-    margin: .5rem;
-    padding: .5rem;
-    
-}
-#form-search{
-    display: flex;
-    margin-right: 1rem;
-    padding-right: 1rem;
-    width: 65%;
-    flex-direction: column;
-    border-right: 1px solid #95afac ;
-    
-}
-
-#form-search form{
-    display: flex;
-}
-
-#form-search input{
-    width: 100%;
-    margin-right: 0.5rem;
-    
-}
-
-#fliter{
-    width: 35%;
-    display: flex;
-    flex-direction: column;
-}
 
 .to-do{
     display: flex;
